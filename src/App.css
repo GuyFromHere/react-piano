@@ -1,0 +1,9 @@
+.key {
+  border: .5px solid black;
+  height: 60px;
+  width: 20px;
+}
+
+.key:hover {
+  background-color: aqua;
+}
